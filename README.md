@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # samyang_project
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# samyang_project
+>>>>>>> a3892a899119d553f7899d367942cc97a516e43c
